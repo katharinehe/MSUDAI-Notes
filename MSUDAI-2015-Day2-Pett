@@ -3,17 +3,14 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 **_Linked Data in the Archaeological Wilds by Daniel Pett_**
-- item
-- item
-- item
-- item
-- item
-- item
-- item
-- item
-- item
-- item
-- item
-- item
+- Note 1
+	- Subnote 1.1
+- Note 2
+- Note 3
+	- Subnote 3.1
+    - Subnote 3.2
+    - Subnote 3.3
+- Note 4
+	- Subnote 4.1
 
 
